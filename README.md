@@ -7,7 +7,7 @@
 <p align="center">
 <strong>Contact</strong>
 </br>
-<a href="mailto:09.turmoil-jujutsu@icloud.com?body=This%20is%20an%20iCloud%20private%20relay%20email%20that%20will%20forward%20to%20my%20real%20email%20address.%20--Ethan%20Hanlon">
+<a href="mailto:me@ethan-hanlon.xyz">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 

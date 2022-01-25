@@ -1,6 +1,6 @@
 
 # 👋👋👋 Welcome to my profile
-### My reume can be found in the pinned Resume-LaTeX repository
+### My resume can be found in the pinned Resume-LaTeX repository
 
 
 <br><br>

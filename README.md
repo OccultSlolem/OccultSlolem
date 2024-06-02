@@ -1,10 +1,6 @@
 
 # 👋👋👋 Welcome to my profile
-### My resume can be found in the pinned Resume-LaTeX repository
-
-**Q: Where did all your recent commits go?**
-
-A: For privacy I've been using my own Gitea instance to store my personal projects lately. I'll still upload code here every now and then, though.
+### My resume can be found [here](https://github.com/OccultSlolem/Resume) if you're interested.
 
 <br><br>
 <p align="center">
